@@ -3,7 +3,9 @@
 Csapatnév: **404 Not Found**
 
 Platform: Android
+
 Fejlesztői környezet: Android Studio
+
 Telepíthető APK az APK mappában!
 
 Csapattagok:
